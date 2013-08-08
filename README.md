@@ -16,8 +16,8 @@ I spoiled him; we got a movie night with both cupcakes and popcorn!<br>
 
 Version 0.0.1 pictures:<br>
 First prompted upon entering<br>
-http://s20.photobucket.com/user/krystlephoto/media/perseusjavascript_zps0f51f51b.png.html<br>
+<a href="http://s20.photobucket.com/user/krystlephoto/media/perseusjavascript_zps0f51f51b.png.html" target="_blank"><img src="http://i20.photobucket.com/albums/b211/krystlephoto/perseusjavascript_zps0f51f51b.png" border="0" alt=" photo perseusjavascript_zps0f51f51b.png"/></a><br>
 Main Page:<br>
-http://s20.photobucket.com/user/krystlephoto/media/perseusmain_zpsac3c77f2.png.html<br>
+<a href="http://s20.photobucket.com/user/krystlephoto/media/perseusmain_zpsac3c77f2.png.html" target="_blank"><img src="http://i20.photobucket.com/albums/b211/krystlephoto/perseusmain_zpsac3c77f2.png" border="0" alt=" photo perseusmain_zpsac3c77f2.png"/></a><br>
 Table Choices:<br>
 <a href="http://s20.photobucket.com/user/krystlephoto/media/perseustable1stgen_zpsfef06a25.png.html" target="_blank"><img src="http://i20.photobucket.com/albums/b211/krystlephoto/perseustable1stgen_zpsfef06a25.png" border="0" alt=" photo perseustable1stgen_zpsfef06a25.png"/></a><br>
