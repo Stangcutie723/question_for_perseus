@@ -20,4 +20,4 @@ http://s20.photobucket.com/user/krystlephoto/media/perseusjavascript_zps0f51f51b
 Main Page:<br>
 http://s20.photobucket.com/user/krystlephoto/media/perseusmain_zpsac3c77f2.png.html<br>
 Table Choices:<br>
-http://s20.photobucket.com/user/krystlephoto/media/perseustable1stgen_zpsfef06a25.png.html<br>
+<a href="http://s20.photobucket.com/user/krystlephoto/media/perseustable1stgen_zpsfef06a25.png.html" target="_blank"><img src="http://i20.photobucket.com/albums/b211/krystlephoto/perseustable1stgen_zpsfef06a25.png" border="0" alt=" photo perseustable1stgen_zpsfef06a25.png"/></a><br>
