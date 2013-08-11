@@ -1,4 +1,5 @@
 QuestionForPerseus::Application.routes.draw do
+  get "date/index"
   get "choice/index"
   get "options/index"
   get "welcome/index"
