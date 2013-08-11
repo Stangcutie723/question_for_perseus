@@ -36,14 +36,14 @@ body {
   background-color: #000000;
 }
 
-#main {
+#main, #options, #choice {
   position: relative;
   margin: auto;
   padding-left: 10px;
   padding-right: 10px;
   height: 600px;
   width: 600px;
-  font-family: Harrington;
+  font-family: Garamond;
   font-size: 25px;
   text-align: center;
   color: #33ff99;
@@ -51,13 +51,13 @@ body {
 
 .sean {
   font-size: 50px;
-  font-family: Harrington, Stencil;
+  font-family: Garamond;
   color: #66ffff;
 }
 
 .me {
   font-size: 50px;
-  font-family: Harrington;
+  font-family: Garamond;
   color: #66ffff;
 }
 
@@ -66,10 +66,9 @@ img {
   height: 300px;
 }
 
-#popcorn {
+#cupcake, #popcorn, #peach, {
   font-size: 25px;
-  font-family: Harrington;
-  color: #FF0000;
+  font-family: Garamond;
   position: relative;
   margin: auto;
   padding-left: 10px;
@@ -78,63 +77,37 @@ img {
   width: 600px;
   text-align: center;
 }
+#popcorn {
+   color: #FF0000;
+}
 
 #peach {
-  font-size: 25px;
-  font-family: Harrington;
   color: #ffcc00;
-  position: relative;
-  margin: auto;
-  padding-left: 10px;
-  padding-right: 10px;
-  height: 800px;
-  width: 600px;
-  text-align: center;
 }
 
 #cupcake {
-  font-size: 25px;
-  font-family: Harrington;
   color: #00CCFF;
-  position: relative;
-  margin: auto;
-  padding-left: 10px;
-  padding-right: 10px;
-  height: 380px;
-  width: 600px;
-  text-align: center;
-}
-
-
-#end {
-  font-size: 50px;
-  font-family: Harrington;
-  color: #0066ff;
-  background-color: #000000;
-  position: relative;
-  margin: auto;
-  padding-left: 10px;
-  padding-right: 10px;
-  height: 90px;
-  width: 600px;
-  text-align: center;
 }
 
 table, td {
   height: 100px;
   width: 100px;
-  border: 3px #99ff00 solid;
-  background-color: #003300;
-  color: #ccffff;
-  font-family: Stencil;
+  border: 5px #660033 solid;
+  border-radius: 20px;
+  background-color: #FFCCFF;
+  color: #330033;
+  font-family: Garamond;
   font-size: 20px;
   text-align: center;
   position: relative;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding: 5px 5px 5px 5px;
   margin: auto;
 }
 
 a:hover {
-  color: #ccffff;
+  font-size: 40px;
+  border: 5px #660033 solid;
+  border-radius: 20px;
+  background-color: #FFCCFF;
+  color: #330033;
 }

@@ -1,4 +1,6 @@
 QuestionForPerseus::Application.routes.draw do
+  get "choice/index"
+  get "options/index"
   get "welcome/index"
 
   root to: 'welcome#index'
