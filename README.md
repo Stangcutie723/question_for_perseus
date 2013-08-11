@@ -42,7 +42,9 @@ Choosing options page, making your choice and the end result now all have their 
 The CSS is redone in the table and there is a new picture for the end result. Instead of 3 end result
 pictures there is only one. Maybe more to come in a later version.<br>
 <br>
-Version 0.2.21 pictures<br>
+Version 0.2.21 pictures:
+=======================
+<br>
 The prompt is the same:<br>
 <img src="http://i20.photobucket.com/albums/b211/krystlephoto/website/c2051713-e62b-47df-9cd2-c43fae32cd85_zpsdb0067b0.jpg" border="0" alt=" photo c2051713-e62b-47df-9cd2-c43fae32cd85_zpsdb0067b0.jpg"/><br>
 <img src="http://i20.photobucket.com/albums/b211/krystlephoto/website/03d1b841-306b-427d-9f6e-95df0e7345bf_zpsa226de49.jpg" border="0" alt=" photo 03d1b841-306b-427d-9f6e-95df0e7345bf_zpsa226de49.jpg"/><br>
@@ -60,7 +62,9 @@ End result:<br>
 <img src="http://i20.photobucket.com/albums/b211/krystlephoto/website/e54088d9-9962-4877-92aa-ce889953d279_zps3a8b586c.jpg" border="0" alt=" photo e54088d9-9962-4877-92aa-ce889953d279_zps3a8b586c.jpg"/><br>
 
 <br>
-Version 0.1.1 pictures:<br>
+
+First Version Pictures:
+========================
 First prompted upon entering<br>
 <img src="http://i20.photobucket.com/albums/b211/krystlephoto/perseusjavascript_zps0f51f51b.png" border="0" alt=" photo perseusjavascript_zps0f51f51b.png"/><br>
 Main Page:<br>
