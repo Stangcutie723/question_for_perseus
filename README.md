@@ -7,26 +7,37 @@ been updated to version 0.2.21! Anyone is welcome to clone the ssh and
 run this via their terminal and on their local browser. I've used both 
 firefox and chrome and it works smoothly. 
 <br>
+<br>
 Currently on a ruby platform running rails 4.0.0. I chose to use
 the amazing functions of controllers and sprucing up the CSS to 
 be more easy on the eyes and yet stand out. I did not change the
 javascript so those prompts are the same.
 <br>
-Known Bugs:<br>
+
+Known Bugs:
+===========
+<br>
 The only "bug" I haven't tinkered with is when you refresh the page
 you are prompted again. But that will  be fixed in a later version.
 <br>
-(BACK STORY): My boyfriend and I were both under a lot of stress regarding 
+
+(BACK STORY):
+=============
+My boyfriend and I were both under a lot of stress regarding 
 moving from one apartment to another in addition to the normal stresses like 
 running errands, making dinner, completing chores, paying bills. At the time
 I was also awaiting answers from a code summer camp. To break that negative cycle 
 I hunkered down a couple hours a day for two weeks and created this special present for him.
 <br>
-(HIS REACTION): He was really impressed with the project considering I hadn't really worked
+(HIS REACTION):
+===============
+He was really impressed with the project considering I hadn't really worked
 with creating a code project before and this was my very first completed and working project. 
 We did get our date! I however spoiled him; we got a movie night with both cupcakes and popcorn!<br>
 <br>
-Updates in Version 0.2.21:<br>
+Updates in Version 0.2.21:
+==========================
+<br>
 Choosing options page, making your choice and the end result now all have their own links and pages.
 The CSS is redone in the table and there is a new picture for the end result. Instead of 3 end result
 pictures there is only one. Maybe more to come in a later version.<br>
