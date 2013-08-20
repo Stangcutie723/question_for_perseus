@@ -32,16 +32,12 @@ The prompt is the same:<br>
 <img src="http://i20.photobucket.com/albums/b211/krystlephoto/website/03d1b841-306b-427d-9f6e-95df0e7345bf_zpsa226de49.jpg" border="0" alt=" photo 03d1b841-306b-427d-9f6e-95df0e7345bf_zpsa226de49.jpg"/><br>
 
 Home Page:<br>
-<img src="http://i20.photobucket.com/albums/b211/krystlephoto/website/efc6d011-d674-4fa1-a572-1ee3a837f457_zpsf5f8afae.jpg" border="0" alt=" photo efc6d011-d674-4fa1-a572-1ee3a837f457_zpsf5f8afae.jpg"/><br>
 
 Available options to choose from now has its own page:<br>
-<img src="http://i20.photobucket.com/albums/b211/krystlephoto/website/8d1de7ec-859c-4e2e-9ed8-331a2432e1da_zpsc798ebba.jpg" border="0" alt=" photo 8d1de7ec-859c-4e2e-9ed8-331a2432e1da_zpsc798ebba.jpg"/><br>
 
 Choosing your activity and food: <br>
-<img src="http://i20.photobucket.com/albums/b211/krystlephoto/website/c09c029a-3fa2-401e-926e-4205ef4c0aaf_zps252cc01d.jpg" border="0" alt=" photo c09c029a-3fa2-401e-926e-4205ef4c0aaf_zps252cc01d.jpg"/><br>
 
 End result:<br>
-<img src="http://i20.photobucket.com/albums/b211/krystlephoto/website/e54088d9-9962-4877-92aa-ce889953d279_zps3a8b586c.jpg" border="0" alt=" photo e54088d9-9962-4877-92aa-ce889953d279_zps3a8b586c.jpg"/><br>
 
 <br>
 
