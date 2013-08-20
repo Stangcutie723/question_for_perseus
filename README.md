@@ -14,27 +14,9 @@ be more easy on the eyes and yet stand out. I did not change the
 javascript so those prompts are the same.
 <br>
 
-Known Bugs:
+No Known Bugs:
 ===========
-<br>
-The only "bug" I haven't tinkered with is when you refresh the page
-you are prompted again. But that will  be fixed in a later version.
-<br>
 
-(BACK STORY):
-=============
-My boyfriend and I were both under a lot of stress regarding 
-moving from one apartment to another in addition to the normal stresses like 
-running errands, making dinner, completing chores, paying bills. At the time
-I was also awaiting answers from a code summer camp. To break that negative cycle 
-I hunkered down a couple hours a day for two weeks and created this special present for him.
-<br>
-(HIS REACTION):
-===============
-He was really impressed with the project considering I hadn't really worked
-with creating a code project before and this was my very first completed and working project. 
-We did get our date! I however spoiled him; we got a movie night with both cupcakes and popcorn!<br>
-<br>
 Updates in Version 0.2.21:
 ==========================
 <br>
@@ -71,3 +53,18 @@ Main Page:<br>
 <img src="http://i20.photobucket.com/albums/b211/krystlephoto/perseusmain_zpsac3c77f2.png" border="0" alt=" photo perseusmain_zpsac3c77f2.png"/><br>
 Table Choices:<br>
 <img src="http://i20.photobucket.com/albums/b211/krystlephoto/perseustable1stgen_zpsfef06a25.png" border="0" alt=" photo perseustable1stgen_zpsfef06a25.png"/><br>
+
+Back Story:
+=============
+My boyfriend and I were both under a lot of stress regarding 
+moving from one apartment to another in addition to the normal stresses like 
+running errands, making dinner, completing chores, paying bills. At the time
+I was also awaiting answers from a code summer camp. To break that negative cycle 
+I hunkered down a couple hours a day for two weeks and created this special present for him.
+<br>
+His Reaction:
+===============
+He was really impressed with the project considering I hadn't really worked
+with creating a code project before and this was my very first completed and working project. 
+We did get our date! I however spoiled him; we got a movie night with both cupcakes and popcorn!<br>
+<br>
